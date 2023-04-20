@@ -1,15 +1,15 @@
-# Spryker Commerce OS
+# ProductCategoryStorageExtension Module
+[![Latest Stable Version](https://poser.pugx.org/spryker/product-category-storage-extension/v/stable.svg)](https://packagist.org/packages/spryker/product-category-storage-extension)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg)](https://php.net/)
 
-## Core Modules
+ProductCategoryStorageExtension module provides plugin interfaces used by the ProductCategoryStorage module.
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
-[![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg)](https://php.net/)
+## Installation
 
-This is a mono-repo of our Spryker modules.
-If you want to make a PR with suggested changes, please do so in the specific module repository
-`https://github.com/spryker/{module-name}`.
+```
+composer require spryker/product-category-storage-extension
+```
 
-### Links
-- **[Spryker Documentation](https://docs.spryker.com/)**
+## Documentation
 
-
+[Spryker Documentation](https://docs.spryker.com)
